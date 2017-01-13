@@ -1,0 +1,18 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+.container{
+  background: #ccc;
+  padding: 18px;
+}
+.items{
+  box-shadow:0 1px 1px rgba(0, 0, 0,0.3);
+  background: red;
+  padding: 38px;
+  display: block;
+  text-align: center;
+}
+.item span{
+  font-size: 58
+}

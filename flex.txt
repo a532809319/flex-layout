@@ -1,0 +1,2 @@
+ div.items.item-$*5>span{$}
+  div.items.item-$@6*7>span{$@6}
